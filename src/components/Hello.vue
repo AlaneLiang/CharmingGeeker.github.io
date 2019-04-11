@@ -13,30 +13,11 @@
       <img src="~@/assets/me.jpeg" style="width: 80px; border-radius: 40px; margin-top: 15vh"/>
       <div style="margin-top: 10px; line-height: 1.7em "><b>唯有深入，方能浅出</b><br><br>我是梁旭，欢迎大家关注我</div>
       <div style="padding: 10px 0;" class="hidden-sm-and-up">
-        <a href="https://juejin.im/user/58211b88a0bb9f0058c25b7f" style="margin-right: 16px">Blog</a>
-        <a href="https://github.com/wendux">Github</a>
+        <a href="https://www.jianshu.com/u/ad08697c889b" style="margin-right: 16px">Blog</a>
+        <a href="https://github.com/CharmingGeeker">Github</a>
       </div>
       <div style="padding: 10px 0;" id="tag" class="hidden-xs-only">
-        <!--<a href="https://github.com/wendux/DSBridge-Android"-->
-           <!--v-tooltip:bottom="{ html: '同时支持同步调用和异步调用的跨平台Javascript bridge' }">-->
-          <!--DSBridge-->
-        <!--</a>-->
-        <!--<a href="https://wendux.github.io/dist/#/doc/flyio/readme"-->
-           <!--v-tooltip:bottom="{ html: '支持所有Javascript运行时的http client' }" :ripple="true">-->
-          <!--fly.js-->
-        <!--</a>-->
-        <!--<a href="https://github.com/wendux/ajax-hook"-->
-           <!--v-tooltip:bottom="{ html: '拦截全局ajax请求的库' }"-->
-        <!--&gt;-->
-          <!--ajax-hook-->
-        <!--</a>-->
-        <!--<a href="http://neat.dtworkroom.com/"-->
-           <!--v-tooltip:bottom="{ html: '极致简洁、强大、优雅的jquery兼容的库 ' }"-->
-        <!--&gt;neat.js</a>-->
-        <!--<a href="http://dspider.dtworkroom.com/"-->
-           <!--v-tooltip:bottom="{ html: '移动端数据爬取平台 ' }"-->
-        <!--&gt;DSpider</a>-->
-      <!--</div>-->
+
         <a href="https://github.com/CharmingGeeker/ssmtest">ssm脚手架</a>
         <a href="https://github.com/CharmingGeeker/GoWeb-Seed-Project">goWeb Seed</a>
       </div>

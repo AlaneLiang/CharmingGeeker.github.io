@@ -127,10 +127,10 @@
             container.className = 'gitment-container gitment-footer-container'
             container.innerHTML = `
               Contact me by
-              <a class="gitment-footer-project-link" href="https://juejin.im/user/58211b88a0bb9f0058c25b7f/posts" target="_blank">
+              <a class="gitment-footer-project-link" href="https://www.jianshu.com/u/ad08697c889b" target="_blank">
                 Blog
               </a> or
-               <a class="gitment-footer-project-link" href="https://github.com/wendux" target="_blank">
+               <a class="gitment-footer-project-link" href="https://github.com/CharmingGeeker" target="_blank">
                 Github
               </a>
             `

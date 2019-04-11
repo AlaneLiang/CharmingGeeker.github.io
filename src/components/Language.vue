@@ -6,7 +6,7 @@
         <li><router-link to="/doc/flyio-en/readme">English</router-link></li>
         <li><router-link to="/doc/flyio/readme">中文简体</router-link></li>
       </ul>
-      <div class="copyright">Copyright © wendu  2017 </div>
+      <div class="copyright">Copyright © lx  2019 </div>
     </div>
 
 

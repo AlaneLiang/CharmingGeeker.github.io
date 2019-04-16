@@ -6,7 +6,7 @@
     <canvas id="canvas"></canvas>
     <div style="position: absolute; top:5px; right: 10px; z-index: 2; font-size: 16px" id="nav-t" class="hidden-xs-only">
       <v-btn  icon href="https://github.com/CharmingGeeker"><v-icon>fa-github</v-icon></v-btn>
-      <v-btn  icon href="https://github.com/CharmingGeeker"><v-icon>more_vert</v-icon></v-btn>
+      <v-btn  icon href="https://www.jianshu.com/u/ad08697c889b"><v-icon>more_vert</v-icon></v-btn>
     </div>
     <div style="position: absolute; top:0;left: 0; width: 100%; text-align: center; color: #333; font-size: 16px">
       <!--<div style="height: 3px; background:-webkit-linear-gradient(left,deepskyblue,cornflowerblue)"></div>-->

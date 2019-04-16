@@ -9,7 +9,7 @@
       <v-btn  icon href="https://www.jianshu.com/u/ad08697c889b"><v-icon>more_vert</v-icon></v-btn>
     </div>
     <div style="position: absolute; top:0;left: 0; width: 100%; text-align: center; color: #333; font-size: 16px">
-      <!--<div style="height: 3px; background:-webkit-linear-gradient(left,deepskyblue,cornflowerblue)"></div>-->
+      <div style="height: 3px; background:-webkit-linear-gradient(left,deepskyblue,cornflowerblue)"></div>
       <img src="~@/assets/me.jpeg" style="width: 80px; border-radius: 40px; margin-top: 15vh"/>
       <div style="margin-top: 10px; line-height: 1.7em "><b>唯有深入，方能浅出</b><br><br>我是梁旭，欢迎大家关注我</div>
       <div style="padding: 10px 0;" class="hidden-sm-and-up">

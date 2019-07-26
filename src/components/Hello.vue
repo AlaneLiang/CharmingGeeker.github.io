@@ -19,7 +19,7 @@
       <div style="padding: 10px 0;" id="tag" class="hidden-xs-only">
 
         <a href="https://github.com/CharmingGeeker/ssmtest">ssm脚手架</a>
-        <a href="https://github.com/CharmingGeeker/GoWeb-Seed-Project">goWeb Seed</a>
+        <a href="https://github.com/CharmingGeeker">Github</a>
       </div>
     </div>
   </div>

@@ -102,7 +102,7 @@
         fly.get(`/static/doc/${this.path}/${this.name}.md`).then(d => {
           this.data = d.data;
           wait();
-          document.title = "flyio-" + this.current.title;
+          document.title = "liangxu-" + this.current.title;
           this.renderComment();
         }).catch(e => {
           alert(e.message);
@@ -139,12 +139,12 @@
         }
         var gitment = new Gitment({
           id: this.current.title, // optional
-          owner: 'wendux',
-          repo: 'flyio-issues',
+          owner: 'liangxu',
+          repo: '',
           theme: myTheme,
           oauth: {
-            client_id: 'cd1c78a4b43550a390f2',
-            client_secret: 'fdb869e6a8e81b0c12fc7e19b1b74a98d81a3a41',
+            client_id: '',
+            client_secret: '',
           }
           // ...
           // For more available options, check out the documentation below
